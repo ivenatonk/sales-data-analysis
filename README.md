@@ -51,16 +51,16 @@ The dataset contains **30 sales records** from January to June with the followin
 ## 📊 Charts
 
 ### Monthly Revenue Trend
-![Monthly Revenue Trend](charts/monthly_trend_py.png)
+![Monthly Revenue Trend](charts/monthly_trend_py.png?raw=true)
 
 ### Revenue by Category
-![Revenue by Category](charts/revenue_by_category_py.png)
+![Revenue by Category](charts/revenue_by_category_py.png?raw=true)
 
 ### Revenue by Region
-![Revenue by Region](charts/revenue_by_region_py.png)
+![Revenue by Region](charts/revenue_by_region_py.png?raw=true)
 
 ### Revenue by Sales Rep
-![Revenue by Sales Rep](charts/revenue_by_sales_rep_py.png)
+![Revenue by Sales Rep](charts/revenue_by_sales_rep_py.png?raw=true)
 
 ---
 
