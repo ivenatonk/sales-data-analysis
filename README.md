@@ -51,16 +51,17 @@ The dataset contains **30 sales records** from January to June with the followin
 ## 📊 Charts
 
 ### Monthly Revenue Trend
-![Monthly Revenue Trend](charts/monthly_trend_py.png?raw=true)
+[![Monthly Revenue Trend](https://github.com/ivenatonk/sales-data-analysis/blob/main/data/excel/python/charts/monthly_trend_py.png?raw=true)
 
 ### Revenue by Category
-![Revenue by Category](charts/revenue_by_category_py.png?raw=true)
+![Revenue by Category](https://github.com/ivenatonk/sales-data-analysis/blob/main/data/excel/python/charts/revenue_by_category_py.png?raw=true)
 
 ### Revenue by Region
-![Revenue by Region](charts/revenue_by_region_py.png?raw=true)
+![Revenue by Region](https://github.com/ivenatonk/sales-data-analysis/blob/main/data/excel/python/charts/revenue_by_region_py.png?raw=true
+))
 
 ### Revenue by Sales Rep
-![Revenue by Sales Rep](charts/revenue_by_sales_rep_py.png?raw=true)
+![Revenue by Sales Rep](https://github.com/ivenatonk/sales-data-analysis/blob/main/data/excel/python/charts/revenue_by_sales_rep_py.png?raw=true)
 
 ---
 
